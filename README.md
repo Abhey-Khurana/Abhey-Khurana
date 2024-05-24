@@ -1,50 +1,60 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Courier New&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhey+Khurana!" />
-</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=300&color=1D77F7&vCenter=true&random=false&width=350&lines=Hello+Guys!%F0%9F%91%8B;I'm+Abhey+Khurana"
+        alt="Typing SVG" />
+</div>
 
 <h3 align="center">A Passionate Software Developer</h3>
 
-<br />
-- 🔭 I’m currently working on Myself<br>
-- 🌱 I’m currently learning MERN Stack.<br>
-- 👯 I’m looking to collaborate on Web-Development Project.<br>
-- ⚡ Fun fact: Why do Java developers wear glasses? Because they don't C#!<br>
-
-<br>
-<br>
+<hr>
+<div align="center">
+    👋 Hi there! I'm Abhey Khurana, a passionate Backend Developer on a journey to becoming a Full Stack Developer. 🚀
+    Currently exploring the realms of technology and code, while aiming to
+    make a meaningful impact through my contributions. Always eager to learn and grow in the vast and dynamic world of
+    software development. Connect with me and let's embark on this exciting journey together!
+</div>
+<hr>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Abhey-Khurana.Abhey-Khurana" />
 
 <br>
 <div align="center">
-    <a href="mailto:abhey.khurana77@gmail.com">
+    <a href="mailto:abhey.khurana77@gmail.com"  target="_blank">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+        &nbsp;
     </a>
-    <a href="https://www.linkedin.com/in/abhey-khurana-5b1a992b8/" target="_blank">
+    <a href="https://www.linkedin.com/in/abhey-khurana-20b1531b1/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank" />
     </a>
 </div>
 
+## Languages and Tools 🔨
+  
+<!-- <p align="center">  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhey-khurana&show_icons=true&locale=en&layout=compact" alt="abhey-khurana" />
 
-<h2 align="center">Languages and Tools </h2>
-<br />
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,java,mysql" /><br>
-</div>
+### Programming Languages 
+<!-- <p align="center">  -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="Java Logo" width="40" height="40"/>
+ </a>  
+<!-- </p> -->
 
-<br />
-<br>
-<div align=center>
+### Frontend Development
+<!-- https://icongr.am/devicon -->
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /> </a>
 
-    <a href="https://git.io/streak-stats">
-        <img width="40%" height="30%" src="https://streak-stats.demolab.com?user=Abhey-Khurana&theme=tokyonight"
-            alt="GitHub Streak" />
-    </a>
-    <img width="50%" height="30%"
-        src="https://github-readme-stats.vercel.app/api?username=Abhey-Khurana&show_icons=true&theme=tokyonight" />
+ 
 
-</div>
+
+### Backend Development
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+
+### Database
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+### Devops, Testing &  Design Software
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /> </a>
